@@ -1,1 +1,1 @@
-nyscuag01.us.dell.com:8080/
+nyscuag01.us.dell.com
